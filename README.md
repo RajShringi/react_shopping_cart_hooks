@@ -10,6 +10,7 @@ remove items from the cart and obtain a subtotal of the items.
 - Add and Remove Items form cart using context api.
 - Responsive Design.
 - Add animation using Framer Motion Library.
+- Add local storage support.
 
 ## Build/Run
 #### Requirements
