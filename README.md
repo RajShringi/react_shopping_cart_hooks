@@ -1,6 +1,6 @@
 
 # 🛍 Simple Cart Application
-## Basic Overview [Live Demo](https://react-shopping-cart-hooks.vercel.app/)
+## Basic Overview - [Live Demo](https://react-shopping-cart-hooks.vercel.app/)
 ![Screenshot 2022-12-27 at 11 30 16 PM](https://user-images.githubusercontent.com/54682451/209779039-45ef46cc-182f-45e9-ad9f-953877c2d8c9.png)
 
 A basic shopping cart built using ReactJS that allows users to add and
